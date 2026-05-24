@@ -1,0 +1,13 @@
+{
+  "background_color": "#100d0d",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "djedjeled.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "djedjeled.github",
+  "start_url": "/",
+  "theme_color": "#010000",
+  "id": "djedjeledj.github",
+  "description": "Un runner cybernétique ultra rapide !"
+}
