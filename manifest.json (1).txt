@@ -1,0 +1,16 @@
+{
+  "name": "Cyber-Runner",
+  "short_name": "CyberRunner",
+  "description": "Un runner cybernétique ultra rapide !",
+  "start_url": "https://djedjeled.github.io/Cyber-runner-/",
+  "display": "fullscreen",
+  "background_color": "#0d0614",
+  "theme_color": "#0d0614",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3063/3063822.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
